@@ -1,0 +1,3 @@
+flightgear-python
+pyignite
+streamlit
